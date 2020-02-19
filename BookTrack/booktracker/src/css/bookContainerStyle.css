@@ -1,0 +1,11 @@
+.bookContainer{
+    display: table;
+    position: absolute;
+    margin: 0 auto;
+}
+.bookList {
+    list-style: none;
+}
+.bookListItem{
+    float: left;
+}
